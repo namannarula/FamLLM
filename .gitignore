@@ -1,0 +1,16 @@
+# Default ignored files
+/shelf/
+/.idea/workspace.xml
+# Editor-based HTTP Client requests
+/httpRequests/
+# Datasource local storage ignored files
+/dataSources/
+/dataSources.local.xml
+*.iml
+/vcs.xml
+FamLLM.iml
+/venv
+.idea/
+amdgpu-install_5.4.50403-1_all.deb
+amdgpu-install_6.0.60002-1_all.deb
+mistral-7b-instruct-v0.1.Q4_0.gguf
