@@ -4,7 +4,6 @@ from langchain.callbacks.manager import CallbackManager
 from langchain.callbacks.streaming_stdout import (
     StreamingStdOutCallbackHandler,
 )  # for streaming resposne
-from langchain.llms import OpenAI
 
 
 model_path = "mistral-7b-instruct-v0.1.Q4_0.gguf"
