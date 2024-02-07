@@ -11,6 +11,13 @@
 FamLLM.iml
 /venv
 .idea/
-amdgpu-install_5.4.50403-1_all.deb
-amdgpu-install_6.0.60002-1_all.deb
-mistral-7b-instruct-v0.1.Q4_0.gguf
+rocm-debs/amdgpu-install_5.4.50403-1_all.deb
+rocm-debs/amdgpu-install_6.0.60002-1_all.deb
+models/mistral-7b-instruct-v0.1.Q4_0.gguf
+models/llama-2-7b.Q8_0.gguf
+models/mistral-7b-openorca.Q4_0.gguf
+# contain famapp's support docs - should probably not put them online publically :)
+/GPT_data
+/db
+
+
